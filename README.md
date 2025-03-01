@@ -22,7 +22,7 @@ To get started with AlphaNet, follow these steps:
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   yarn install
    ```
 
 3. **Configure the Tool**:
@@ -30,7 +30,7 @@ To get started with AlphaNet, follow these steps:
 
 4. **Run the Tool**:
    ```bash
-   python main.py
+   yarn start alphanet
    ```
 
 ## Example Output
