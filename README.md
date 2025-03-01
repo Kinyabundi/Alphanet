@@ -2,6 +2,8 @@
 
 AlphaNet is a tool designed to detect Maximal Extractable Value (MEV) opportunities across blockchain networks and share significant findings on Twitter. This project aims to provide users with insights into profitable trading strategies while maintaining transparency and educational value.
 
+**Note**: This project currently uses simulated data for demonstration purposes. Actual performance may vary when applied to real-world scenarios.
+
 ## Features
 
 - **MEV Detection**: Identify MEV opportunities using advanced algorithms.
